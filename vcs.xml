@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/TakuSemba/DribbbleSampleApp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nekoiscat/android-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Frank\AndroidStudioProjects" />
